@@ -7,10 +7,10 @@ The repository includes raw and processed data for the construction of the MRI-b
 
 ## Contents
 
-- **SI/**: Supplementary materials for the manuscript.
   - `Supplementary_Materials_MRI_Data.xlsx`: Quantitative measurements from MRI data for rabbit eyes, including dimensions, volumes, and center-of-gravity coordinates for vitreous, lens, iris/ciliary body, and anterior chamber segments. The details of the MRI procedures and image analysis are detailed in the methods section of the manuscript.
   - `Supplementary_Materials_Sampling_Data.xlsx`: PK sampling data with ranibizumab concentrations in aqueous humour over time, including ADA signals.
-  - `Vitreous_geometry_mesh/`: COMSOL geometry files (.mphbin) for 3D vitreous chamber meshes of individual rabbit eyes (MRI models), used for finite element MFPT simulations. The construction steps are described in the methods section of the manuscript, with additional information in SI1.
+
+- **Vitreous_geometry_mesh/**: COMSOL geometry files (.mphbin) for 3D vitreous chamber meshes of individual rabbit eyes (MRI models), used for finite element MFPT simulations. The construction steps are described in the methods section of the manuscript, with additional information in SI1.
 
 ### Other Files
 - **README.md**: This file, providing an overview and usage instructions.
